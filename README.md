@@ -28,11 +28,10 @@ Full Stack Developer India
 AI Developer OpenAI Gemini
 Web3 Blockchain Developer
 -->
-<h1 align="center">Hi 👋, I'm Md Sahil Alam</h1>
-<h3 align="center">Aspiring Software Engineer | BCA Student | Java & MERN Developer</h3>
+<h1 >Hi 👋, I'm Md Sahil Alam</h1>
 
-<p align="center">
-  <b>I’m an aspiring Software Engineer and BCA 1st-year student based in Bangalore, India, passionate about building real-world software products and preparing for product-based company roles.
+<p >
+  <b>I’m an aspiring Software Engineer and 1st-year student based in Bangalore, India, passionate about building real-world software products and preparing for product-based company roles.
 
 I enjoy learning by building. From web applications to AI-powered tools, I focus on writing clean, scalable, and practical code.</b>
 </p>
