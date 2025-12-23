@@ -32,14 +32,10 @@ Web3 Blockchain Developer
 <h3 align="center">Aspiring Software Engineer | BCA Student | Java & MERN Developer</h3>
 
 <p align="center">
-  <b>Java DSA • MERN Stack • AI APIs • Web3 • Backend Development</b>
+  <b>I’m an aspiring Software Engineer and BCA 1st-year student based in Bangalore, India, passionate about building real-world software products and preparing for product-based company roles.
+
+I enjoy learning by building. From web applications to AI-powered tools, I focus on writing clean, scalable, and practical code.</b>
 </p>
-
-👋 Hi, I’m Md Sahil Alam
-
-I’m an aspiring Software Engineer and BCA 1st-year student based in Bangalore, India, passionate about building real-world software products and preparing for product-based company roles.
-
-I enjoy learning by building. From web applications to AI-powered tools, I focus on writing clean, scalable, and practical code.
 
 # 🚀 What I’m Currently Doing
 
