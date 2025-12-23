@@ -1,9 +1,53 @@
 # 💫 About Me:
+<!--
+Md Sahil Alam
+Md Sahil Alam Software Engineer
+Md Sahil Alam Software Developer
+Md Sahil Alam web Developer
+Md Sahil Alam fullstack Developer
+Md Sahil Alam fulstack Developer
+Md Sahil Alam GitHub
+Md Sahil Alam linkdin
+Md Sahil Alam insta
+Md Sahil Alam instagram
+Md Sahil Alam gmial
+Md Sahil Alam email
+Md Sahil Alam mail
+Md Sahil Alam tweeter
+Md Sahil Alam x
+Md Sahil Alam Java Developer
+Md Sahil Alam DSA Java
+Md Sahil Alam MERN Stack Developer
+BCA Student Software Engineer
+precidency univercity Student Software Engineer md sahil alam
+precidency univercity bca Student Software Engineer  md sahil alam 
+Aspiring Software Engineer India
+Product Based Company Preparation
+Java DSA GitHub
+Full Stack Developer India
+AI Developer OpenAI Gemini
+Web3 Blockchain Developer
+-->
+<h1 align="center">Hi 👋, I'm Md Sahil Alam</h1>
+<h3 align="center">Aspiring Software Engineer | BCA Student | Java & MERN Developer</h3>
+
+<p align="center">
+  <b>Java DSA • MERN Stack • AI APIs • Web3 • Backend Development</b>
+</p>
+
 👋 Hi, I’m Md Sahil Alam
 
 I’m an aspiring Software Engineer and BCA 1st-year student based in Bangalore, India, passionate about building real-world software products and preparing for product-based company roles.
 
 I enjoy learning by building. From web applications to AI-powered tools, I focus on writing clean, scalable, and practical code.
+
+# 🚀 What I’m Currently Doing
+
+Grinding Data Structures & Algorithms in Java
+Building projects with MERN Stack
+Exploring AI (OpenAI & Gemini APIs)
+Exploring Web3 & Blockchain fundamentals
+Improving problem-solving and system thinking
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer.md_sahil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sahil-alam-software-developer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sahil_codex) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developer.mdsahil@gmail.com) 
@@ -18,10 +62,21 @@ I enjoy learning by building. From web applications to AI-powered tools, I focus
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=md-sahil-alam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+# 📈 What You’ll Find on My GitHub
+
+DSA problems solved in Java
+Real-world projects, not just tutorials
+Clean, well-structured code
+Continuous improvement and consistency
+
+### 🔑 Keywords
+`Software Engineer` `Java Developer` `DSA in Java` `MERN Stack Developer`  
+`Full Stack Developer` `Backend Developer` `BCA Student`  
+`Product Based Company Aspirant` `AI Developer` `Web3 Learner`
+
 ---
 [![](https://visitcount.itsvg.in/api?id=md-sahil-alam&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
