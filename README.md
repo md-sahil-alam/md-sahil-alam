@@ -38,11 +38,11 @@ I enjoy learning by building. From web applications to AI-powered tools, I focus
 
 # 🚀 What I’m Currently Doing
 
-Grinding Data Structures & Algorithms in Java
-Building projects with MERN Stack
-Exploring AI (OpenAI & Gemini APIs)
-Exploring Web3 & Blockchain fundamentals
-Improving problem-solving and system thinking
+Grinding Data Structures & Algorithms in Java<br>
+Building projects with MERN Stack<br>
+Exploring AI (OpenAI & Gemini APIs)<br>
+Exploring Web3 & Blockchain fundamentals<br>
+Improving problem-solving and system thinking<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer.md_sahil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sahil-alam-software-developer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sahil_codex) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developer.mdsahil@gmail.com) 
@@ -57,16 +57,12 @@ Improving problem-solving and system thinking
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=md-sahil-alam&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 # 📈 What You’ll Find on My GitHub
 
-DSA problems solved in Java
-Real-world projects, not just tutorials
-Clean, well-structured code
-Continuous improvement and consistency
+DSA problems solved in Java<br>
+Real-world projects, not just tutorials<br>
+Clean, well-structured code<br>
+Continuous improvement and cons<br>istency
 
 ### 🔑 Keywords
 `Software Engineer` `Java Developer` `DSA in Java` `MERN Stack Developer`  
