@@ -62,7 +62,7 @@ Improving problem-solving and system thinking<br>
 DSA problems solved in Java<br>
 Real-world projects, not just tutorials<br>
 Clean, well-structured code<br>
-Continuous improvement and cons<br>istency
+Continuous improvement and consistency<br>
 
 ### 🔑 Keywords
 `Software Engineer` `Java Developer` `DSA in Java` `MERN Stack Developer`  
