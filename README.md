@@ -34,7 +34,6 @@ AI Developer OpenAI Gemini
 Web3 Blockchain Developer
 -->
 # Md Sahil Alam — Software Engineer | Full-Stack Developer
-<h1 >Hi 👋, I'm Md Sahil Alam</h1>
 
 <p >
   <b>I’m a Software Engineer and 1st-year student based in Bangalore, India. I build real-world, SEO-friendly full-stack web applications using modern JavaScript frameworks.
