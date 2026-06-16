@@ -1,6 +1,14 @@
 # 💫 About Me:
 <!--
+Md Sahil Alam Founder Of PG Near ( [pgnearin](https://www.pgnear.in/) )
 Md Sahil Alam
+Founder of PG Near
+PG Near Founder
+Md Sahil Alam Founder
+Bangalore Software Engineer
+Full Stack Software Engineer
+Startup Founder India
+Student Founder
 sahil alam Software Engineer
 Md Sahil Alam Software Engineer
 Md Sahil Alam Software Developer
@@ -33,22 +41,29 @@ Full Stack Developer India
 AI Developer OpenAI Gemini
 Web3 Blockchain Developer
 -->
-# Md Sahil Alam | Software Engineer | Full-Stack Developer
+# Md Sahil Alam
 
-<p >
-  <b>I’m a Software Engineer and 1st-year student based in Bangalore, India. I build real-world, SEO-friendly full-stack web applications using modern JavaScript frameworks.
+### Founder of PG Near • Bangalore-based Software Engineer
 
-I believe in learning by building turning ideas into working products while focusing on clean architecture, scalability, and performance.</b>
+<p>
+  <b>
+    I'm Md Sahil Alam, Founder of <a href="https://www.pgnear.in/" target="_blank">PG Near</a> and a Bangalore-based Software Engineer.
+    <br><br>
+    Currently building PG Near, a platform that helps students and working professionals discover verified PG accommodations across India.
+    <br><br>
+    I build scalable full-stack web applications, explore AI-powered solutions, and focus on creating products that solve real-world problems through clean architecture, performance, and great user experience.
+  </b>
 </p>
-<a href"https://www.mdsahilalam.com">portfolio: mdsahilalam.com</a>
 
-# 🚀 What I’m Currently Doing
+🌐 Portfolio: <a href="https://www.mdsahilalam.com" target="_blank">mdsahilalam.com</a>
 
-Grinding Data Structures & Algorithms in Java<br>
-Building projects with MERN Stack<br>
-Exploring AI (OpenAI & Gemini APIs)<br>
-Exploring Web3 & Blockchain fundamentals<br>
-Improving problem-solving and system thinking<br>
+# 🚀 What I'm Currently Building
+
+🏠 Building <b>PG Near</b> – India's PG Discovery Platform<br>
+💻 Developing full-stack applications with Next.js, React, Node.js & PostgreSQL<br>
+🤖 Exploring AI products using OpenAI & Gemini APIs<br>
+📚 Practicing Data Structures & Algorithms in Java<br>
+🚀 Learning product development, SEO, and startup growth<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer.md_sahil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sahil-alam-software-developer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sahil_codex) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developer.mdsahil@gmail.com) 
@@ -71,6 +86,13 @@ Clean, well-structured code<br>
 Continuous improvement and consistency<br>
 
 ### 🔑 Keywords
+`Founder of PG Near`
+`PG Near Founder`
+`Md Sahil Alam Founder`
+`Bangalore Software Engineer`
+`Full Stack Software Engineer`
+`Startup Founder India`
+`Student Founder`
 `Software Engineer` `Java Developer` `DSA in Java` `MERN Stack Developer`  
 `Full Stack Developer` `Backend Developer` `BCA Student`  
 `Product Based Company Aspirant` `AI Developer` `Web3 Learner`
