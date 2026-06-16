@@ -49,7 +49,7 @@ Web3 Blockchain Developer
   <b>
     I'm Md Sahil Alam, Founder of <a href="https://www.pgnear.in/" target="_blank">PG Near</a> and a Bangalore-based Software Engineer.
     <br><br>
-    Currently building PG Near, a platform that helps students and working professionals discover verified PG accommodations across India currenly focused near Presidency University Bangalore.
+    Currently building PG Near, a platform that helps students and working professionals discover verified PG accommodations across India, currently focused near Presidency University Bangalore.
     <br><br>
     I build scalable full-stack web applications, explore AI-powered solutions, and focus on creating products that solve real-world problems through clean architecture, performance, and great user experience.
   </b>
@@ -59,7 +59,7 @@ Web3 Blockchain Developer
 
 # 🚀 What I'm Currently Building
 
-Building <b>PG Near</b> - India's PG Discovery Platform, currenly focused near Presidency University Bangalore.<br>
+Building <b>PG Near</b> - India's PG Discovery Platform, currently focused near Presidency University Bangalore.<br>
 Developing full-stack applications with Next.js, React, Node.js & PostgreSQL<br>
 Exploring AI products using OpenAI & Gemini APIs<br>
 Practicing Data Structures & Algorithms in Java<br>
