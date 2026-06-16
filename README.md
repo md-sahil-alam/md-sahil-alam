@@ -43,13 +43,13 @@ Web3 Blockchain Developer
 -->
 # Md Sahil Alam
 
-### Founder of PG Near • Bangalore-based Software Engineer
+### Founder of PG Near | Bangalore-based Software Engineer
 
 <p>
   <b>
     I'm Md Sahil Alam, Founder of <a href="https://www.pgnear.in/" target="_blank">PG Near</a> and a Bangalore-based Software Engineer.
     <br><br>
-    Currently building PG Near, a platform that helps students and working professionals discover verified PG accommodations across India.
+    Currently building PG Near, a platform that helps students and working professionals discover verified PG accommodations across India currenly focused near Presidency University Bangalore.
     <br><br>
     I build scalable full-stack web applications, explore AI-powered solutions, and focus on creating products that solve real-world problems through clean architecture, performance, and great user experience.
   </b>
@@ -59,11 +59,11 @@ Web3 Blockchain Developer
 
 # 🚀 What I'm Currently Building
 
-🏠 Building <b>PG Near</b> – India's PG Discovery Platform<br>
-💻 Developing full-stack applications with Next.js, React, Node.js & PostgreSQL<br>
-🤖 Exploring AI products using OpenAI & Gemini APIs<br>
-📚 Practicing Data Structures & Algorithms in Java<br>
-🚀 Learning product development, SEO, and startup growth<br>
+Building <b>PG Near</b> - India's PG Discovery Platform, currenly focused near Presidency University Bangalore.<br>
+Developing full-stack applications with Next.js, React, Node.js & PostgreSQL<br>
+Exploring AI products using OpenAI & Gemini APIs<br>
+Practicing Data Structures & Algorithms in Java<br>
+Learning product development, SEO, and startup growth<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer.md_sahil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sahil-alam-software-developer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sahil_codex) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developer.mdsahil@gmail.com) 
